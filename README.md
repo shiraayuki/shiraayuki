@@ -19,6 +19,7 @@ I'm always eager to learn new things and improve my skills! 🚀
 ### 🌱 Currently Learning
 
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+- ![Golang](https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=white)
 
 ## 📫 How to reach me
 
