@@ -9,7 +9,6 @@
 - Interested in systems programming, automation, and Linux tooling.  
 - Contact me: wegerernikolas@gmail.co
 
-
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -22,11 +21,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Frameworks
+## Frameworks
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Tools & OS
+## Tools & OS
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-005577.svg?style=for-the-badge&logo=wayland&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white)
