@@ -4,9 +4,11 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1s8gqwg4epf0w4qosiy2zomg7?si=769cd71b3a9b42a3)
 
 ## About Me
-- Studying Industry 4.0 Informatics at OTH Amberg-Weiden
-- Working at Witron during semester break
-- Reach me at: wegerernikolas@gmail.com
+- Dual student in *Industry 4.0 Informatics* at **OTH Amberg-Weiden**.  
+- Working at **Witron** during semester breaks.  
+- Interested in systems programming, automation, and Linux tooling.  
+- Contact me: wegerernikolas@gmail.co
+
 
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
