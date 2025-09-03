@@ -12,6 +12,10 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+### 🌱 Learning  
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) 
+![Golang](https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=white)
+
 ### ⚙️ Frameworks  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -21,7 +25,3 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white) 
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white) 
 ![Hyprland](https://img.shields.io/badge/Hyprland-005577?style=flat&logo=wayland&logoColor=white)
-
-### 🌱 Learning  
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) 
-![Golang](https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=white)
