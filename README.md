@@ -1,14 +1,12 @@
 # Hi there, I'm Nikolas 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_niki.2)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/446693759065915394)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1s8gqwg4epf0w4qosiy2zomg7?si=769cd71b3a9b42a3)
 
 ## About Me
 - Studying Industry 4.0 Informatics at OTH Amberg-Weiden
 - Working at Witron during semester break
 - Reach me at: wegerernikolas@gmail.com
-
-## Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_niki.2)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/446693759065915394)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1s8gqwg4epf0w4qosiy2zomg7?si=769cd71b3a9b42a3)
 
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
