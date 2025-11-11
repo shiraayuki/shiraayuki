@@ -7,7 +7,7 @@
 - Dual student in *Industry 4.0 Informatics* at **OTH Amberg-Weiden**.  
 - Working at **Witron** during semester breaks.  
 - Interested in systems programming, automation, and Linux tooling.  
-- Contact me: wegerernikolas@gmail.co
+- Contact me: wegerernikolas@gmail.com
 
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
